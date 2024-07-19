@@ -8,3 +8,5 @@ rules = [
 
 [placement]
 mode = "smart"
+[vars]
+APIKEY = "sk-erKsBNy!Io3xR5v4lfP4eTbUFXbCnPtXT$gj$3jophlk&&yqLfrrdPgVaUL*^F#0Es^blu0l@EU@Z82A5kgJ&2NEMr5ZBRRNIDIccL%C05zcno%hzDW41pNPN9d#ZB4O"
